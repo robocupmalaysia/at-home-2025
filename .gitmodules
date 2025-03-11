@@ -1,0 +1,3 @@
+[submodule "CommandGenerator"]
+	path = CommandGenerator
+	url = https://github.com/johaq/CommandGenerator

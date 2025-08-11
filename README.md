@@ -10,7 +10,6 @@
     - [Ranking and Scores](#ranking-and-scores)
     - [Stage 1](#stage-1)
     - [Stage 2](#stage-2)
-    - [Final](#final)
   - [@HOME EDU](#home-edu)
     - [Final](#final-1)
     - [Special Awards](#special-awards)
@@ -83,9 +82,6 @@
 | UniMAP MechaMinds    | -                | -                                              | -          | -                      | -     |
 | Infinity Titan (USM) | -                | -                                              | -          | -                      | -     |
 | UM                   | -                | -                                              | -          | -                      | -     |
-
-#### Final 
-TBA
 
 ### @HOME EDU
 #### Final

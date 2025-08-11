@@ -6,15 +6,15 @@
 - [Teams](#teams)
 - [Scores](#scores)
   - [@HOME OPL](#home-opl)
-    - [Overall](#overall)
-    - [Task Score and Poster](#task-score-and-poster)
+    - [Final](#final)
+    - [Ranking and Scores](#ranking-and-scores)
     - [Stage 1](#stage-1)
     - [Stage 2](#stage-2)
     - [Final](#final)
   - [@HOME EDU](#home-edu)
-    - [Overall](#overall-1)
+    - [Final](#final-1)
     - [Special Awards](#special-awards)
-    - [Task Score and Poster](#task-score-and-poster-1)
+    - [Ranking and Scores](#ranking-and-scores-1)
 - [Schedules](#schedules)
   - [Setup Day: 14 August 2025](#setup-day-14-august-2025)
     - [@Home OPL Arena](#home-opl-arena)
@@ -54,15 +54,13 @@
 
 ## Scores
 ### @HOME OPL
-#### Overall
+#### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
 | 🥇  | TBA                 | -                | -                         | -                         | -            |
 | 🥈  | TBA                 | -                | -                         | -                         | -            |
-| 🥉  | TBA                 | -                | -                         | -                         | -            |
 
-
-#### Task Score and Poster
+#### Ranking and Scores
 | #   | Team name            | Poster | Stage1 | State2 | Total |
 | --- | -------------------- | ------ | ------ | ------ | ----- |
 | -   | UTAR                 | -      | -      | -      | -     |
@@ -90,7 +88,7 @@
 TBA
 
 ### @HOME EDU
-#### Overall
+#### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
 | 🥇  | TBA                 | -                | -                         | -                         | -            |
@@ -102,7 +100,7 @@ TBA
 | -------------------------------------------- | --------- |
 | TBA                                          | -         |
 
-#### Task Score and Poster
+#### Ranking and Scores
 | #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
 | --- | ----------------- | ------ | ---------------- | ------------- | ------------ | ------- |
 | -   | UTAR              | -      | -                | -             | -            | -       |

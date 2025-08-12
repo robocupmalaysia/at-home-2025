@@ -58,8 +58,8 @@
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | TBA                 | -                | -                         | -                         | -            |
-| 🥈  | TBA                 | -                | -                         | -                         | -            |
+| 🥇  | TBD                 | -                | -                         | -                         | -            |
+| 🥈  | TBD                 | -                | -                         | -                         | -            |
 
 #### Ranking and Scores
 | #   | Team name            | Poster | Stage1 | State2 | Total |
@@ -89,9 +89,9 @@
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | TBA                 | -                | -                         | -                         | -            |
-| 🥈  | TBA                 | -                | -                         | -                         | -            |
-| 🥉  | TBA                 | -                | -                         | -                         | -            |
+| 🥇  | TBD                 | -                | -                         | -                         | -            |
+| 🥈  | TBD                 | -                | -                         | -                         | -            |
+| 🥉  | TBD                 | -                | -                         | -                         | -            |
 
 #### Special Awards
 | Award                                        | Team name |

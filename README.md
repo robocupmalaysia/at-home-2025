@@ -4,13 +4,15 @@
 ## Table of contents
 - [Rules](#rules)
 - [Teams](#teams)
+  - [@Home Open Platform League](#home-open-platform-league)
+  - [@Home Education](#home-education)
 - [Scores](#scores)
-  - [@HOME OPL](#home-opl)
+  - [@Home OPL](#home-opl)
     - [Final](#final)
     - [Ranking and Scores](#ranking-and-scores)
     - [Stage 1](#stage-1)
     - [Stage 2](#stage-2)
-  - [@HOME EDU](#home-edu)
+  - [@Home EDU](#home-edu)
     - [Final](#final-1)
     - [Special Awards](#special-awards)
     - [Ranking and Scores](#ranking-and-scores-1)
@@ -37,7 +39,7 @@
 
 
 ## Teams
-### @Home Open League
+### @Home Open Platform League
 - UTAR
 - UniMAP MechaMinds
 - Infinity Titan (USM)
@@ -52,7 +54,7 @@
 
 
 ## Scores
-### @HOME OPL
+### @Home OPL
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
@@ -83,7 +85,7 @@
 | Infinity Titan (USM) | -                | -                                              | -          | -                      | -     |
 | UM                   | -                | -                                              | -          | -                      | -     |
 
-### @HOME EDU
+### @Home EDU
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |

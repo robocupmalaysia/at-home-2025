@@ -25,7 +25,7 @@
   - [Day 2: 16 August 2025](#day-2-16-august-2025)
     - [@Home OPL Arena](#home-opl-arena-2)
     - [@Home EDU Arena](#home-edu-arena-1)
-  - [Day 3: 17 August 2025](#day-3-17-august-2025)
+  - [Final: 17 August 2025](#final-17-august-2025)
     - [@Home OPL Arena](#home-opl-arena-3)
     - [@Home EDU Arena](#home-edu-arena-2)
 - [Field Layout](#field-layout)
@@ -136,7 +136,7 @@ TBA
 TBA
 ***
 
-### Day 3: 17 August 2025
+### Final: 17 August 2025
 #### @HOME OPL Arena
 TBA
 

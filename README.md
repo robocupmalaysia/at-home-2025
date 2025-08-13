@@ -28,9 +28,19 @@
   - [Final: 17 August 2025](#final-17-august-2025)
     - [@Home OPL Arena](#home-opl-arena-3)
     - [@Home EDU Arena](#home-edu-arena-2)
-- [Field Layout](#field-layout)
-- [Information](#information)
-- [Field Photos](#field-photos)
+- [Arena Layout](#arena-layout)
+- [Task Information](#task-information)
+  - [Robot Inspection](#robot-inspection)
+  - [Carry My Luggage](#carry-my-luggage)
+  - [General Purpose Service Robot](#general-purpose-service-robot)
+  - [Receptionist](#receptionist)
+  - [Serve Breakfast](#serve-breakfast)
+  - [Storing Groceries](#storing-groceries)
+  - [Clean the Table](#clean-the-table)
+  - [Enhanced General Purpose Service Robot](#enhanced-general-purpose-service-robot)
+  - [Restaurant](#restaurant)
+  - [Find My Mate](#find-my-mate)
+- [List of Items](#list-of-items)
 
 
 ## Rules
@@ -144,17 +154,76 @@ TBA
 TBA
 
 
-## Field Layout
+## Arena Layout
+![Arena layout](./maps/map_layout.png)
+
+## Task Information
+
+### Robot Inspection
+
+![Robot Inspection Layout](./maps/inspect_layout.png)
+
+### Carry My Luggage
+
+**Note:** 
+- You can select the location for the luggage, either on _the bed_ or on _the floor_.
+
+![Carry My Luggage Layout](./maps/cml_layout.png)
+
+### General Purpose Service Robot
+
+![General Purpose Service Robot Layout](./maps/gpsr_layout.png)
+
+### Receptionist
+
+**Note:** 
+- Host name is _Ana_.
+- Her favourite drink is _water_.
+
+![Receptionist Layout](./maps/reception_layout.png)
+
+### Serve Breakfast
+
+![Serve Breakfast Layout](./maps/serve_layout.png)
+
+### Storing Groceries
+
+**Note:** 
+- Objects are placed on _the dining table_.
+- _Two tables in the kitchen_ (not the dining table) are used as _kitchen cabinets_ for storing different types of objects.
+- There is no cabinet door and the bonus for opening cabinet door cannot be obtained.
+
+![Storing Groceries Layout](./maps/store_layout.png)
+
+### Clean the Table
+
+**Note:** 
+- _The dishwasher tab_ is placed on the table next to the dishwasher.
+
+![Clean the Table Layout](./maps/clean_layout.png)
+
+### Enhanced General Purpose Service Robot
+
+No additional information.
+
+### Restaurant
+
 TBA
 
+### Stickler for rules
 
-# Information
-- List of names (TBA)
-- List of drinks (TBA)
-- List of room (TBA)
-- List of locations (TBA)
-- List of known objects (TBA)
+**Note:** 
+- No guests are allowed in _the bedroom_.
 
+![Stickler for rules Layout](./maps/stick_layout.png)
 
-# Field Photos
-TBA
+### Find My Mate
+
+![Find My Mate Layout](./maps/fmm_layout.png)
+
+## List of Items
+- [List of names](./names/names.md)
+- [List of drinks](./names//drinks.md)
+- [List of room](./maps/room_names.md)
+- [List of locations](./maps/location_names.md)
+- [List of known objects](./objects/objects.md)

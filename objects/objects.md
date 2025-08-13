@@ -32,7 +32,7 @@
 | Objectname |      Image       |
 | :--------: | :--------------: |
 |   spoon    | ![](./spoon.jpg) |
-|   plate    | ![](./plate.png) |
+|   plate    | ![](./plate.jpg) |
 |    cup     |  ![](./cup.jpg)  |
 |    mug     |  ![](./mug.jpg)  |
 |    fork    | ![](./fork.jpg)  |

@@ -118,15 +118,18 @@
 | 5   | 404 Found (UTHM)  | 0      | -                | -             | -            | -       |
 
 ## Schedules
+
 ### Setup Day: 14 August 2025
+
 #### @HOME OPL Arena
-Robot inspection time will be annouced on the day (Aug 14).
+
 | Robot Inspection (TBA)   | Status |
 | ------------------------ | ------ |
 | UTAR                     | 🚫    |
 | UniMAP MechaMinds        | ✅    |
 | Infinity Titan (USM)     | 🚫    |
 | UM                       | ✅    |
+
 ***
 
 ### Day 1: 15 August 2025

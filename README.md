@@ -18,15 +18,15 @@
     - [Ranking and Scores](#ranking-and-scores-1)
 - [Schedules](#schedules)
   - [Setup Day: 14 August 2025](#setup-day-14-august-2025)
-    - [@Home OPL Arena](#home-opl-arena)
+    - [Robot Inspection (OPL Only)](#robot-inspection-opl-only)
   - [Day 1: 15 August 2025](#day-1-15-august-2025)
-    - [@Home OPL Arena](#home-opl-arena-1)
+    - [@Home OPL Arena](#home-opl-arena)
     - [@Home EDU Arena](#home-edu-arena)
   - [Day 2: 16 August 2025](#day-2-16-august-2025)
-    - [@Home OPL Arena](#home-opl-arena-2)
+    - [@Home OPL Arena](#home-opl-arena-1)
     - [@Home EDU Arena](#home-edu-arena-1)
   - [Final: 17 August 2025](#final-17-august-2025)
-    - [@Home OPL Arena](#home-opl-arena-3)
+    - [@Home OPL Arena](#home-opl-arena-2)
     - [@Home EDU Arena](#home-edu-arena-2)
 - [Arena Layout](#arena-layout)
 - [Task Information](#task-information)
@@ -121,9 +121,9 @@
 
 ### Setup Day: 14 August 2025
 
-#### @HOME OPL Arena
+#### Robot Inspection (OPL Only)
 
-| Robot Inspection (TBA)   | Status |
+| Team                     | Status |
 | ------------------------ | ------ |
 | UTAR                     | 🚫    |
 | UniMAP MechaMinds        | ✅    |

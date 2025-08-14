@@ -74,10 +74,10 @@
 #### Ranking and Scores
 | #   | Team name            | Poster | Stage1 | State2 | Total |
 | --- | -------------------- | ------ | ------ | ------ | ----- |
-| -   | UTAR                 | -      | -      | -      | -     |
-| -   | UniMAP MechaMinds    | -      | -      | -      | -     |
-| -   | Infinity Titan (USM) | -      | -      | -      | -     |
-| -   | UM                   | -      | -      | -      | -     |
+| 1   | UTAR                 | 8.375  | -      | -      | -     |
+| 2   | Infinity Titan (USM) | 8.25   | -      | -      | -     |
+| 3   | UM                   | 8      | -      | -      | -     |
+| 4   | UniMAP MechaMinds    | 7.75   | -      | -      | -     |
 
 #### Stage 1
 | Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total |
@@ -111,12 +111,11 @@
 #### Ranking and Scores
 | #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
 | --- | ----------------- | ------ | ---------------- | ------------- | ------------ | ------- |
-| -   | UTAR              | -      | -                | -             | -            | -       |
-| -   | UniMAP Automa     | -      | -                | -             | -            | -       |
-| -   | UniMAP MechaBois  | -      | -                | -             | -            | -       |
-| -   | UTM AIROST        | -      | -                | -             | -            | -       |
-| -   | 404 Found (UTHM)  | -      | -                | -             | -            | -       |
-
+| 1   | UTAR              | 8.375  | -                | -             | -            | -       |
+| 2   | UTM AIROST        | 7.5    | -                | -             | -            | -       |
+| 3   | UniMAP Automa     | 7      | -                | -             | -            | -       |
+| 3   | UniMAP MechaBois  | 7      | -                | -             | -            | -       |
+| 5   | 404 Found (UTHM)  | 0      | -                | -             | -            | -       |
 
 ## Schedules
 ### Setup Day: 14 August 2025

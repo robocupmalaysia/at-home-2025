@@ -134,97 +134,103 @@ Robot inspection time will be annouced on the day (Aug 14).
 
 #### @HOME OPL Arena
 
-**🕤 09.30 - Carry My Luggage**
-
-| Test                   | Volunteer                | Jury1                     | Jury2                     |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-| UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-| UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-| Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
-
-**🕥	 10.30 - General Purpose Service Robot (GPSR)**
-
-| Test                   | Volunteer                | Jury1                     | Jury2                     |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-| UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-| Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
-| UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-
-**🕦 11.30 - Storing Groceries**
-
-| Test                   | Volunteer                | Jury1                     | Jury2                     |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-| Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
-| UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-| UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-
-**🕝 14.30 - Receptionist**
-
-| Test                   | Volunteer                | Jury1                     | Jury2                     |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
-| UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-| UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-| UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-
-**🕠	17.30 - Serve Breakfast**
-
-| Test                   | Volunteer                | Jury1                     | Jury2                     |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-| UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-| UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-| Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
+> **🕤 09.30 - Carry My Luggage**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
+> 
+> **🕥	 10.30 - General Purpose Service Robot (GPSR)**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> 
+> **🕦 11.30 - Storing Groceries**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> 
+> **🕝 14.30 - Receptionist**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> 
+> **🕠	17.30 - Serve Breakfast**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
 
 #### @HOME EDU Arena
 
-**🕥 10.30 - Carry My Luggage**
-
-| Test              | Volunteer         | Jury1          | Jury2          |
-|-------------------|-------------------|----------------|----------------|
-| UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
-| UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
-| UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
-| UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
-
-**🕝 14.30 - Find My Mates**
-
-| Test              | Volunteer         | Jury1          | Jury2          |
-|-------------------|-------------------|----------------|----------------|
-| UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
-| UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
-| UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
-| UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
-
-**🕠	17.30 - Retry**
-
-| Test              | Volunteer         | Jury1          | Jury2          |
-|-------------------|-------------------|----------------|----------------|
-| TBD               |                   |                |                |
-| TBD               |                   |                |                |
-| TBD               |                   |                |                |
-| TBD               |                   |                |                |
+> **🕥 10.30 - Carry My Luggage**
+> 
+> | Test              | Volunteer         | Jury1          | Jury2          |
+> |-------------------|-------------------|----------------|----------------|
+> | UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
+> | UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
+> | UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
+> | UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
+> 
+> **🕝 14.30 - Find My Mates**
+> 
+> | Test              | Volunteer         | Jury1          | Jury2          |
+> |-------------------|-------------------|----------------|----------------|
+> | UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
+> | UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
+> | UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
+> | UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
+> 
+> **🕠	17.30 - Retry**
+> 
+> | Test              | Volunteer         | Jury1          | Jury2          |
+> |-------------------|-------------------|----------------|----------------|
+> | TBD               |                   |                |                |
+> | TBD               |                   |                |                |
+> | TBD               |                   |                |                |
+> | TBD               |                   |                |                |
 
 ***
 
 ### Day 2: 16 August 2025
+
 #### @HOME OPL Arena
-TBA
+
+> TBA
 
 #### @HOME EDU Arena
-TBA
+
+> TBA
+
 ***
 
 ### Final: 17 August 2025
+
 #### @HOME OPL Arena
-TBA
+
+> TBA
 
 #### @HOME EDU Arena
-TBA
 
+> TBA
 
 ## Arena Layout
 ![Arena layout](./maps/map_layout.png)

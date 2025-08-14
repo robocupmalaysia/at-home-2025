@@ -74,10 +74,10 @@
 #### Ranking and Scores
 | #   | Team name            | Poster | Stage1 | State2 | Total |
 | --- | -------------------- | ------ | ------ | ------ | ----- |
-| 1   | UTAR                 | 8.375  | -      | -      | -     |
-| 2   | Infinity Titan (USM) | 8.25   | -      | -      | -     |
-| 3   | UM                   | 8      | -      | -      | -     |
-| 4   | UniMAP MechaMinds    | 7.75   | -      | -      | -     |
+| 1   | UTAR                 | 8.375  | -      | -      | 8.375 |
+| 2   | Infinity Titan (USM) | 8.25   | -      | -      | 8.25  |
+| 3   | UM                   | 8      | -      | -      | 8     |
+| 4   | UniMAP MechaMinds    | 7.75   | -      | -      | 7.75  |
 
 #### Stage 1
 | Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total |
@@ -111,11 +111,11 @@
 #### Ranking and Scores
 | #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
 | --- | ----------------- | ------ | ---------------- | ------------- | ------------ | ------- |
-| 1   | UTAR              | 8.375  | -                | -             | -            | -       |
-| 2   | UTM AIROST        | 7.5    | -                | -             | -            | -       |
-| 3   | UniMAP Automa     | 7      | -                | -             | -            | -       |
-| 3   | UniMAP MechaBois  | 7      | -                | -             | -            | -       |
-| 5   | 404 Found (UTHM)  | 0      | -                | -             | -            | -       |
+| 1   | UTAR              | 8.375  | -                | -             | -            | 8.375   |
+| 2   | UTM AIROST        | 7.5    | -                | -             | -            | 7.5     |
+| 3   | UniMAP Automa     | 7      | -                | -             | -            | 7       |
+| 3   | UniMAP MechaBois  | 7      | -                | -             | -            | 7       |
+| 5   | 404 Found (UTHM)  | 0      | -                | -             | -            | 0       |
 
 ## Schedules
 

@@ -200,6 +200,8 @@ TBA
 **Note:** 
 - _The dishwasher tab_ is placed on the table next to the dishwasher.
 
+![Dishwasher Tablet](./objects/dishwasher-tablet.jpg)
+
 ![Clean the Table Layout](./maps/clean_layout.png)
 
 ### Enhanced General Purpose Service Robot

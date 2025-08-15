@@ -72,12 +72,12 @@
 | 🥈  | TBD                 | -                | -                         | -                         | -            |
 
 #### Ranking and Scores
-| #   | Team name            | Poster | Stage1 | State2 | Total  |
-| --- | -------------------- | ------ | ------ | ------ | ------ |
-| 1   | UM                   | 8      | 645    | -      | 658    |
-| 3   | UniMAP MechaMinds    | 7.75   | 25     | -      | 32.75  |
-| 3   | UTAR                 | 8.375  | 15     | -      | 23.375 |
-| 4   | Infinity Titan (USM) | 8.25   | 0      | -      | 8.25   |
+| #   | Team name            | Poster | Stage1 | State2 |  Total  |
+| --- | -------------------- | ------ | ------ | ------ | ------- |
+| 1   | UM                   | 8      | 645    | -      | 658.0   |
+| 3   | UniMAP MechaMinds    | 7.75   | ⠀25    | -      | ⠀32.75  |
+| 3   | UTAR                 | 8.375  | ⠀15    | -      | ⠀23.375 |
+| 4   | Infinity Titan (USM) | 8.25   | ⠀⠀0    | -      | ⠀8.25   |
 
 #### Stage 1
 | Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total |

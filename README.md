@@ -68,8 +68,8 @@
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | TBD                 | -                | -                         | -                         | -            |
-| 🥈  | TBD                 | -                | -                         | -                         | -            |
+| 🥇  | _TBD_               | -                | -                         | -                         | -            |
+| 🥈  | _TBD_               | -                | -                         | -                         | -            |
 
 #### Ranking and Scores
 | #   | Team name            | Poster | Stage1 | State2 |  Total  |
@@ -99,14 +99,14 @@
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | TBD                 | -                | -                         | -                         | -            |
-| 🥈  | TBD                 | -                | -                         | -                         | -            |
-| 🥉  | TBD                 | -                | -                         | -                         | -            |
+| 🥇  | _TBD_               | -                | -                         | -                         | -            |
+| 🥈  | _TBD_               | -                | -                         | -                         | -            |
+| 🥉  | _TBD_               | -                | -                         | -                         | -            |
 
 #### Special Awards
 | Award                                        | Team name |
 | -------------------------------------------- | --------- |
-| TBA                                          | -         |
+| _TBA_                                        | -         |
 
 #### Ranking and Scores
 | #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
@@ -247,7 +247,7 @@
 
 #### @HOME EDU Arena
 
-> TBA
+> _TBA_
 
 ***
 
@@ -255,11 +255,11 @@
 
 #### @HOME OPL Arena
 
-> TBA
+> _TBA_
 
 #### @HOME EDU Arena
 
-> TBA
+> _TBA_
 
 ## Arena Layout
 ![Arena layout](./maps/map_layout.png)
@@ -317,7 +317,7 @@ No additional information.
 
 ### Restaurant
 
-TBA
+_TBA_
 
 ### Stickler for rules
 

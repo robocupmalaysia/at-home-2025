@@ -171,15 +171,6 @@
 > | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
 > | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
 > | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-> 
-> **🕠	17.30 - Serve Breakfast**
-> 
-> | Test                   | Volunteer                | Jury1                     | Jury2                     |
-> |------------------------|--------------------------|---------------------------|---------------------------|
-> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
-> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
-> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
-> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
 
 #### @HOME EDU Arena
 
@@ -218,7 +209,50 @@
 
 #### @HOME OPL Arena
 
-> TBA
+> **🕤 09.30 - Serve Breakfast**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UniMAP MechaMinds         |
+>
+> **🕥 10.30 - Enhanced General Purpose Service Robot (GPSR)**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> 
+> **🕦 11.30 - Stickler for the Rules**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> 
+> **🕝 14.30 - Clean the Table**
+> 
+> | Test                   | Volunteer                | Jury1                     | Jury2                     |
+> |------------------------|--------------------------|---------------------------|---------------------------|
+> | Infinity Titan (USM)   | UniMAP MechaMinds        | UTAR                      | UM                        |
+> | UniMAP MechaMinds      | UTAR                     | UM                        | Infinity Titan (USM)      |
+> | UTAR                   | UM                       | Infinity Titan (USM)      | UniMAP MechaMinds         |
+> | UM                     | Infinity Titan (USM)     | UniMAP MechaMinds         | UTAR                      |
+>
+> **🕟	16.30 - Restaurant**
+> 
+> | Test                     | Volunteer            | Jury1                  | Jury2                  |
+> |--------------------------|----------------------|------------------------|------------------------|
+> | UniMAP MechaMinds        | UTAR                 | UM                     | Infinity Titan (USM)   |
+> | UTAR                     | UM                   | Infinity Titan (USM)   | UniMAP MechaMinds      |
+> | UM                       | Infinity Titan (USM) | UniMAP MechaMinds      | UTAR                   |
+> | Infinity Titan (USM)     | UniMAP MechaMinds    | UTAR                   | UniMAP MechaMinds      |
 
 #### @HOME EDU Arena
 

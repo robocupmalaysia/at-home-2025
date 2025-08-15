@@ -187,19 +187,21 @@
 > 
 > | Test              | Volunteer         | Jury1          | Jury2          |
 > |-------------------|-------------------|----------------|----------------|
-> | UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
-> | UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
-> | UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
-> | UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
+> | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
+> | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
+> | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
+> | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
 > 
 > **🕝 14.30 - Find My Mates**
 > 
 > | Test              | Volunteer         | Jury1          | Jury2          |
 > |-------------------|-------------------|----------------|----------------|
-> | UniMAP MechaBois  | UTM AIROST        | UTAR           | UniMAP Automa  |
-> | UTM AIROST        | UTAR              | UniMAP Automa  | UniMAP MechaBois |
-> | UTAR              | UniMAP Automa     | UniMAP MechaBois | UTM AIROST     |
-> | UniMAP Automa     | UniMAP MechaBois  | UTM AIROST     | UTAR           |
+> | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
+> | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
+> | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
+> | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
 > 
 > **🕠	17.30 - Retry**
 > 

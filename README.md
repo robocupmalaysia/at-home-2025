@@ -125,9 +125,9 @@
 
 | Team                     | Status |
 | ------------------------ | ------ |
-| UTAR                     | 🚫    |
+| UTAR                     | ✅    |
 | UniMAP MechaMinds        | ✅    |
-| Infinity Titan (USM)     | 🚫    |
+| Infinity Titan (USM)     | ✅    |
 | UM                       | ✅    |
 
 ***

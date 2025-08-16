@@ -71,29 +71,29 @@
 | 🥇  | _TBD_               | -                | -                         | -                         | -            |
 | 🥈  | _TBD_               | -                | -                         | -                         | -            |
 
-#### Ranking and Scores
+#### Ranking and Scores (Unnormalized)
 | #   | Team name            | Poster | Stage1 | State2 |  Total  |
 | --- | -------------------- | ------ | ------ | ------ | ------- |
-| 1   | UM                   | 8      | 645    | -      | 653.0   |
-| 3   | UniMAP MechaMinds    | 7.75   | ⠀25    | -      | ⠀32.75  |
-| 3   | UTAR                 | 8.375  | ⠀15    | -      | ⠀23.375 |
-| 4   | Infinity Titan (USM) | 8.25   | ⠀⠀0    | -      | ⠀8.25   |
+| 1   | UM                   | 8      | 905    | 185    | 1090.0   |
+| 2   | Infinity Titan (USM) | 8.25   | 120    | 0      | ⠀128.25   |
+| 3   | UTAR                 | 8.375  | ⠀15    | 20     | ⠀⠀43.375 |
+| 4   | UniMAP MechaMinds    | 7.75   | ⠀25    | 0      | ⠀⠀32.75  |
 
 #### Stage 1
 | Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total |
 | -------------------- | ---------------- | ------------------------------------ | ------------- | --------------- | ----------------- | ----- |
-| UTAR                 | 0                | 0                                    | 0             | -               | 15                | 15    |
-| UniMAP MechaMinds    | 0                | 0                                    | 10            | -               | 15                | 25    |
-| Infinity Titan (USM) | 0                | 0                                    | 0             | -               | 0                 | 0     |
-| UM                   | 15               | 200                                  | 255           | -               | 175               | 645   |
+| UTAR                 | 0                | 0                                    | 0             | 0               | 15                | 15    |
+| UniMAP MechaMinds    | 0                | 0                                    | 10            | 0               | 15                | 25    |
+| Infinity Titan (USM) | 0                | 0                                    | 0             | 120             | 0                 | 120   |
+| UM                   | 15               | 200                                  | 255           | 260             | 175               | 905   |
 
 #### Stage 2
 | Team name            | Clean the Table  | Enhanced General Purpose Service Robot (EGPSR) | Restaurant | Stickler for the Rules | Total |
 | -------------------- | ---------------- | ---------------------------------------------- | ---------- | ---------------------- | ----- |
-| UTAR                 | -                | -                                              | -          | -                      | -     |
-| UniMAP MechaMinds    | -                | -                                              | -          | -                      | -     |
-| Infinity Titan (USM) | -                | -                                              | -          | -                      | -     |
-| UM                   | -                | -                                              | -          | -                      | -     |
+| UTAR                 | 0                | 0                                              | 0          | 20                     | 20    |
+| UniMAP MechaMinds    | 0                | 0                                              | 0          | 0                      | 0     |
+| Infinity Titan (USM) | 0                | 0                                              | 0          | 0                      | 0     |
+| UM                   | 35               | 0                                              | 100        | 50                     | 185   |
 
 ### @Home EDU
 #### Final

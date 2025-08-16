@@ -246,9 +246,26 @@
 > | Infinity Titan (USM)     | UniMAP MechaMinds    | UTAR                   | UniMAP MechaMinds      |
 
 #### @HOME EDU Arena
-
-> _TBA_
-
+>
+> **🕥 10.30 - Receptionist**
+>
+> | Test               | Volunteer         | Jury 1             | Jury 2             |
+> |--------------------|-------------------|--------------------|--------------------|
+> | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
+> | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
+> | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
+> | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
+>
+> **🕥 14.30 - Re-attempt**
+>
+> | Task               | Test               | Volunteer         | Jury 1             | Jury 2             |
+> |--------------------|-------------------|--------------------|--------------------|--------------------|
+> | -                  | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | -                  | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
+> | -                  | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
+> | -                  | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
+> | -                  | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
 ***
 
 ### Final: 17 August 2025

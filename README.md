@@ -121,7 +121,7 @@
 
 ## Normalized Scores
 
-| Team              | Poster | Carry my luggage | Find my mate | Receptionist |
+| Team              | Poster (10%) | Carry my luggage (30%) | Find my mate (30%) | Receptionist (30%) |
 |-------------------|--------|------------------|--------------|--------------|
 | UTM AIROST        | 89.55  | 55.56            | 100.00       | 0.00         |
 | 404 Found (UTHM)  | 0.00   | 44.44            | 13.89        | 0.00         |

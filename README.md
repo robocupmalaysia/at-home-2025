@@ -109,13 +109,25 @@
 | _TBA_                                        | -         |
 
 #### Ranking and Scores
-| #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
-| --- | ----------------- | ------ | ---------------- | ------------- | ------------ | ------- |
-| 1   | UTM AIROST        | 7.5    | 250              | 360             | 0            | -       |
-| 2   | 404 Found (UTHM)  | 0      | 200              | 50            | 0            | -       |
-| 3   | UTAR              | 8.375  | 50               | 130           | 150          | -       |
-| 4   | UniMAP Automa     | 7      | 450               | 40            | 0            | -       |
-| 4   | UniMAP MechaBois  | 7      | 250               | 0             | 0            | -       |
+## Raw Scores
+
+| Team              | Poster | Carry my luggage | Find my mate | Receptionist |
+|-------------------|--------|------------------|--------------|--------------|
+| UTM AIROST        | 7.5    | 250              | 360          | 0            |
+| 404 Found (UTHM)  | 0      | 200              | 50           | 0            |
+| UTAR              | 8.375  | 50               | 130          | 150          |
+| UniMAP Automa     | 7      | 450              | 40           | 0            |
+| UniMAP MechaBois  | 7      | 250              | 0            | 0            |
+
+## Normalized Scores
+
+| Team              | Poster | Carry my luggage | Find my mate | Receptionist |
+|-------------------|--------|------------------|--------------|--------------|
+| UTM AIROST        | 89.55  | 55.56            | 100.00       | 0.00         |
+| 404 Found (UTHM)  | 0.00   | 44.44            | 13.89        | 0.00         |
+| UTAR              | 100.00 | 11.11            | 36.11        | 100.00       |
+| UniMAP Automa     | 83.58  | 100.00           | 11.11        | 0.00         |
+| UniMAP MechaBois  | 83.58  | 55.56            | 0.00         | 0.00         |
 
 ## Schedules
 

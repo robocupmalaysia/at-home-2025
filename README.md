@@ -261,11 +261,11 @@
 >
 > | Task               | Test               | Volunteer         | Jury 1             | Jury 2             |
 > |--------------------|-------------------|--------------------|--------------------|--------------------|
-> | -                  | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
-> | -                  | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
-> | -                  | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
-> | -                  | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
-> | -                  | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | Carry My Luggage   | UniMAP Automa      | UniMAP MechaBois  | UTM AIROST         | UTAR               |
+> | Carry My Luggage   | UTAR               | 404 Found (UTHM)  | UniMAP Automa      | UniMAP MechaBois   |
+> | Carry My Luggage   | UniMAP MechaBois   | UTM AIROST        | UTAR               | 404 Found (UTHM)   |
+> | Find My Mates      | UTM AIROST         | UTAR              | 404 Found (UTHM)   | UniMAP Automa      |
+> | Receptionist       | 404 Found (UTHM)   | UniMAP Automa     | UniMAP MechaBois   | UTM AIROST         |
 ***
 
 ### Final: 17 August 2025

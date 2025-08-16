@@ -111,11 +111,11 @@
 #### Ranking and Scores
 | #   | Team name         | Poster | Carry my luggage | Find my mates | Receptionist | Total   |
 | --- | ----------------- | ------ | ---------------- | ------------- | ------------ | ------- |
-| 1   | UTM AIROST        | 7.5    | 250              | -             | -            | 257.5   |
-| 2   | 404 Found (UTHM)  | 0      | 200              | -             | -            | 200     |
-| 3   | UTAR              | 8.375  | 50               | -             | -            | 58.375  |
-| 4   | UniMAP Automa     | 7      | 50               | -             | -            | 57      |
-| 4   | UniMAP MechaBois  | 7      | 50               | -             | -            | 57      |
+| 1   | UTM AIROST        | 7.5    | 250              | 0             | -            | 257.5   |
+| 2   | 404 Found (UTHM)  | 0      | 200              | 50            | -            | 250     |
+| 3   | UTAR              | 8.375  | 50               | 130           | -            | 188.375 |
+| 4   | UniMAP Automa     | 7      | 50               | 40            | -            | 97      |
+| 4   | UniMAP MechaBois  | 7      | 50               | 0             | -            | 57      |
 
 ## Schedules
 

@@ -14,7 +14,6 @@
     - [Stage 2](#stage-2)
   - [@Home EDU](#home-edu)
     - [Final](#final-1)
-    - [Special Awards](#special-awards)
     - [Ranking and Scores](#ranking-and-scores-1)
 - [Schedules](#schedules)
   - [Setup Day: 14 August 2025](#setup-day-14-august-2025)
@@ -69,8 +68,8 @@
 
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | _TBD_               | -                | -                         | -                         | -            |
-| 🥈  | _TBD_               | -                | -                         | -                         | -            |
+| 🥇  | UM                   | 50.00            | 25.00                     | 25.00                     | 100.00       |
+| 🥈  | Infitity Titan (USM) | ⠀7.13            | 20.65                     | 18.08                     | ⠀45.86        |
 
 #### Ranking and Scores (Normalized)
 
@@ -125,14 +124,9 @@
 #### Final
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
-| 🥇  | _TBD_               | -                | -                         | -                         | -            |
-| 🥈  | _TBD_               | -                | -                         | -                         | -            |
-| 🥉  | _TBD_               | -                | -                         | -                         | -            |
-
-#### Special Awards
-| Award                                        | Team name |
-| -------------------------------------------- | --------- |
-| _TBA_                                        | -         |
+| 🥇  | UTAR                | 48.69⠀            | 25.00                     | 23.94                     | 97.64       |
+| 🥈  | UTM                 | 50.00             | 13.54                     | 22.54                     | 86.08       |
+| 🥉  | UniMAP Automa       | 37.48             | 22.92                     | 18.31                     | 78.70       |
 
 #### Ranking and Scores
 

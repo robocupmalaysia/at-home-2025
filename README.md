@@ -66,20 +66,47 @@
 ## Scores
 ### @Home OPL
 #### Final
+
 | #   | Team name            | Task score (50%) | Final Internal Jury (25%) | Final External Jury (25%) | Total (100%) |
 | --- | -------------------- | ---------------- | ------------------------- | ------------------------- | ------------ |
 | 🥇  | _TBD_               | -                | -                         | -                         | -            |
 | 🥈  | _TBD_               | -                | -                         | -                         | -            |
 
+#### Ranking and Scores (Normalized)
+
+| #   | Team name            | Poster | Stage1 | State2 |  Total  |
+|     |                      | (10%)  | (45%)  | (45%)  |         |
+| --- | -------------------- | ------ | ------ | ------ | ------- |
+| 1   | UTAR                 | ⠀9.55  |⠀⠀0.77  | ⠀3.00 | 13.32   |
+| 2   | UniMAP MechaMinds    | ⠀9.85  |⠀⠀1.12  | ⠀0.00 | 10.98   |
+| 3   | Infinity Titan (USM) | 10.00  |⠀⠀4.15  | ⠀0.00 | 14.15   |
+| 4   | UM                   | ⠀9.25  |⠀45.00  | 45.00 | 99.25   |
+
+| Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total   |
+| -------------------- | ---------------- | ------------------------------------ | ------------- | --------------- | ----------------- | ------- |
+| UTAR                 | ⠀⠀0.00           | ⠀⠀0.00                              | ⠀⠀0.00        | ⠀⠀0.00          | ⠀⠀8.57           | ⠀⠀8.57  |
+| UniMAP MechaMinds    | ⠀⠀0.00           | ⠀⠀0.00                              | ⠀⠀3.92        | ⠀⠀0.00          | ⠀⠀8.57           | ⠀12.49  |
+| Infinity Titan (USM) | ⠀⠀0.00           | ⠀⠀0.00                              | ⠀⠀0.00        | ⠀46.15          | ⠀⠀0.00           | ⠀46.15  |
+| UM                   | 100.00           | 100.00                               | 100.00        | 100.00          | 100.00            | 500.00  |
+
+| Team name            | Clean the Table  | Enhanced General Purpose Service Robot (EGPSR) | Restaurant | Stickler for the Rules | Total  |
+| -------------------- | ---------------- | ---------------------------------------------- | ---------- | ---------------------- | ------ |
+| UTAR                 | ⠀⠀0.00           | ⠀⠀0.00                                        | ⠀⠀0.00     | ⠀20.00                 | ⠀20.00 |
+| UniMAP MechaMinds    | ⠀⠀0.00           | ⠀⠀0.00                                        | ⠀⠀0.00     | ⠀⠀0.00                 | ⠀⠀0.00 |
+| Infinity Titan (USM) | ⠀⠀0.00           | ⠀⠀0.00                                        | ⠀⠀0.00     | ⠀⠀0.00                 | ⠀⠀0.00 |
+| UM                   | 100.00           | ⠀⠀0.00                                        | 100.00      | 100.00                 | 300.00 |
+
 #### Ranking and Scores (Unnormalized)
+
 | #   | Team name            | Poster | Stage1 | State2 |  Total  |
 | --- | -------------------- | ------ | ------ | ------ | ------- |
 | 1   | UM                   | 8      | 905    | 185    | 1090.0   |
 | 2   | Infinity Titan (USM) | 8.25   | 120    | 0      | ⠀128.25   |
-| 3   | UTAR                 | 8.375  | ⠀15    | 20     | ⠀⠀43.375 |
+| 3   | UTAR                 | 8.375  | ⠀15    | 10     | ⠀⠀33.375 |
 | 4   | UniMAP MechaMinds    | 7.75   | ⠀25    | 0      | ⠀⠀32.75  |
 
 #### Stage 1
+
 | Team name            | Carry My Luggage | General Purpose Service Robot (GPSR) | Receiptionist | Serve Breakfast | Storing Groceries | Total |
 | -------------------- | ---------------- | ------------------------------------ | ------------- | --------------- | ----------------- | ----- |
 | UTAR                 | 0                | 0                                    | 0             | 0               | 15                | 15    |
@@ -90,7 +117,7 @@
 #### Stage 2
 | Team name            | Clean the Table  | Enhanced General Purpose Service Robot (EGPSR) | Restaurant | Stickler for the Rules | Total |
 | -------------------- | ---------------- | ---------------------------------------------- | ---------- | ---------------------- | ----- |
-| UTAR                 | 0                | 0                                              | 0          | 20                     | 20    |
+| UTAR                 | 0                | 0                                              | 0          | 10                     | 10    |
 | UniMAP MechaMinds    | 0                | 0                                              | 0          | 0                      | 0     |
 | Infinity Titan (USM) | 0                | 0                                              | 0          | 0                      | 0     |
 | UM                   | 35               | 0                                              | 100        | 50                     | 185   |

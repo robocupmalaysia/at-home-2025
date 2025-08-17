@@ -285,11 +285,20 @@
 
 #### @HOME OPL Arena
 
-> _TBA_
+> | Time    | Team name            | 
+> | ------- | -------------------- | 
+> | 09.00   | UM                   | 
+> | 09.15   | Infinity Titan (USM) | 
 
 #### @HOME EDU Arena
 
-> _TBA_
+> | Time    | Team name            | 
+> | ------- | -------------------- | 
+> | 09.30   | UTHM                 | 
+> | 09.45   | UniMAP MechoBois     |
+> | 10.00   | UTAR                 |
+> | 10.15   | UTM                  |
+> | 10.30   | UniMAP Automa        |
 
 ## Arena Layout
 ![Arena layout](./maps/map_layout.png)
